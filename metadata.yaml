@@ -1,0 +1,32 @@
+_repo: The-Second-Battalion-Royal-Dublin-Fusiliers-in-the-South-African-WarWith-a-Description-of-the__25618
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mainwaring, Arthur Edward
+    birthdate: 1864
+    gutenberg_agent_id: '31462'
+    url: http://www.gutenberg.org/2009/agents/31462
+  - agent_name: Romer, Cecil Francis
+    birthdate: 1869
+    gutenberg_agent_id: '31461'
+    url: http://www.gutenberg.org/2009/agents/31461
+description: ''
+gutenberg_issued: '2008-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Regimental histories'
+- !lcsh 'Great Britain. Army. Royal Dublin Fusiliers. 2nd Battalion'
+- !lcc 'DT'
+title: 'The Second Battalion Royal Dublin Fusiliers in the South African War
+
+  With a Description of the Operations in the Aden Hinterland'
+url: http://www.gutenberg.org/ebooks/25618
